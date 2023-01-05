@@ -1,5 +1,6 @@
 module SU2
 
-# Write your package code here.
+include("prism.jl")
+include("mesh.jl")
 
 end

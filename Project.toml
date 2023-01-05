@@ -3,6 +3,9 @@ uuid = "1c22364f-5a27-4a14-9ac2-9d0fe45c9f1b"
 authors = ["Paulo José Saiz Jabardo"]
 version = "0.1.0"
 
+[deps]
+Meshes = "eacbb407-ea5a-433e-ab97-5258b1ca43fa"
+
 [compat]
 julia = "1"
 
